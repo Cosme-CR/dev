@@ -11,7 +11,7 @@ A proposta da atividade era criar uma página simples utilizando apenas **HTML e
 A página apresenta um pequeno **perfil pessoal**, com os seguintes elementos:
 
 - Nome do aluno: **Cosme Ribeiro**
-- Cargo fictício: **Front-end Developer**
+- Cargo fictício: **Backend Developer**
 - Efeito visual na palavra "Developer" com destaque por meio do CSS
 - Ícones de três redes sociais:
   - Facebook
