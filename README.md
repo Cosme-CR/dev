@@ -1,4 +1,4 @@
-# 🖼️ Atividade 02 SENAI – Perfil
+# 🖼️ Atividade 02 – Perfil | SENAI - LIMA (Linguagem de Marcação)
 
 Este projeto foi desenvolvido como parte de uma **atividade prática** do curso de **Desenvolvimento de Sistemas** no **SENAI**.
 
