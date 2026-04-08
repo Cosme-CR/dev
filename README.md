@@ -1,4 +1,4 @@
-# 🖼️ Atividade 02 – Perfil | SENAI - LIMA (Linguagem de Marcação)
+#  Atividade 02 – Perfil | SENAI - LIMA (Linguagem de Marcação)
 
 Este projeto foi desenvolvido como parte de uma **atividade prática** do curso de **Desenvolvimento de Sistemas** no **SENAI**.
 
@@ -6,7 +6,7 @@ A proposta da atividade era criar uma página simples utilizando apenas **HTML e
 
 ---
 
-## 💡 Descrição do Projeto
+##  Descrição do Projeto
 
 A página apresenta um pequeno **perfil pessoal**, com os seguintes elementos:
 
@@ -20,7 +20,7 @@ A página apresenta um pequeno **perfil pessoal**, com os seguintes elementos:
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - Estruturação com HTML5
 - Estilização com CSS3
@@ -29,7 +29,7 @@ A página apresenta um pequeno **perfil pessoal**, com os seguintes elementos:
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - HTML5  
 - CSS3  
